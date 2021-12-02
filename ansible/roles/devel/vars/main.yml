@@ -1,0 +1,6 @@
+---
+devel_packages:
+  - name: "{{ python_prefix }}-alembic"
+  - name: "{{ python_prefix }}-freenit"
+  - name: "{{ python_prefix }}-sqlite3"
+  - name: "{{ python_prefix }}-uvicorn"
